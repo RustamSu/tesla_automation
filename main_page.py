@@ -158,7 +158,7 @@ class Chrome2(unittest.TestCase):  # Создаем класс теста, пи�
     def setUp(self):
         desired_cap = {
             'browser': 'Chrome',
-            'browser_version': '91.0',
+            'browser_version': 'latest',
             'os': 'Windows',
             'os_version': '10',
             'resolution': '1920x1080',
