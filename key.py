@@ -1,0 +1,1 @@
+mykey1 = 'https://full_r9fLFO:wiAqpw8uBGKDJwiTw7aP@hub-cloud.browserstack.com/wd/hub'
