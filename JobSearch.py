@@ -422,4 +422,3 @@ class Firefox2(unittest.TestCase):  # 4.Second Unit test for Firefox browser
 
 if __name__ == '__main__':
     unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='./HtmlReports'))
-
