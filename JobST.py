@@ -117,7 +117,6 @@ for x in menu:
 with open('job_search_result.json', 'w') as json_file:
     json.dump(map_menu, open('job_search_result.json', 'w'))
 
-
 '''menu = driver.find_elements_by_xpath('//tbody/tr')
 for x in menu:
     r = x.find_element_by_xpath('.//td/a')
