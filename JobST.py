@@ -7,8 +7,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver import ActionChains
 from selenium.webdriver.chrome.options import Options
 from selenium_stealth import stealth
-import hlprs as hp
 from faker import Faker
+import hlprs as hp
 import random
 import string
 # import AllureReports
